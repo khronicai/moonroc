@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/HackArrOw/">
+  <a href="https://github.com/khronicai/moonroc">
     <img src="https://img.shields.io/github/followers/khronicai?label=Follow&style=social">
   </a>
   <a href="https://github.com/HackArrOw/TG-Scraper/">
