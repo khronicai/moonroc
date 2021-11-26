@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://moonroc.net/img/7.png" width="470" height="250">
+  <img src="https://moonroc.net/img/7.png" width="300" height="300">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
