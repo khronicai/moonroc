@@ -7,7 +7,7 @@
   <a href="https://github.com/khronicai/moonroc">
     <img src="https://img.shields.io/github/followers/khronicai?label=Follow&style=social">
   </a>
-  <a href="https://github.com/HackArrOw/TG-Scraper/">
+  <a href="https://github.com/khronicai/moonroc">
     <img src="https://img.shields.io/github/stars/khronicai/moonroc?style=social">
   </a>
 </p>
