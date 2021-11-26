@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/khronicai?label=Follow&style=social">
   </a>
   <a href="https://github.com/HackArrOw/TG-Scraper/">
-    <img src="https://img.shields.io/github/stars/khronicai/TeleGram-Group-Scraper?style=social">
+    <img src="https://img.shields.io/github/stars/khronicai/moonroc?style=social">
   </a>
 </p>
 <p align="center">
